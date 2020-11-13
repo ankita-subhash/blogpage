@@ -1,0 +1,27 @@
+{% extends 'blogbase.html' %}
+{% load widget_tweaks %}
+
+{% block title %} {{blogpage.title}} {% endblock title %}
+
+{% block description%}{{blogpage.description}} {% endblock description %}
+
+<!-- <h1>{{  blogpage.title }}</h1>
+<p>{{ blogpage.content }}</p> -->
+{% block body %}
+    <!-- <div class = "jumbotron" style="margin: 24px  10px 10px 10px;"> -->
+    <!-- </div> -->
+
+    <section id="faq" style="padding-top: 5%;padding-bottom: 5%;">
+      <div class="container">    
+              <b style="color:#006d8d;font-size: 24px;"> 
+              <span style="color:#F37435">{{blogpage.title}}</b></h1>
+                <br>
+                <i class="ion-android-remove"></i></a>
+            <div id="faq1" class="collapse show" data-parent="#faq-list">                              
+          </div>
+          {{ blogpage.content | safe }}
+      </div>
+    </section>
+{% endblock body %}
+
+
