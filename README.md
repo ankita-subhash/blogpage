@@ -46,6 +46,19 @@ _____________________________________________________________
 ![blog home page](https://user-images.githubusercontent.com/58456645/115696448-5577fb80-a380-11eb-8f37-192bae086373.PNG)
 
 
+____________________________________________________________
+------------------------------------------------------------
+
+**Blog LIST PAGE WITH CURD operations** 
+
+
+![Blog List page](https://user-images.githubusercontent.com/58456645/115696886-b4d60b80-a380-11eb-8d1e-0ca3387a21fa.PNG)
+
+
+
+
+
+
 
 
 
