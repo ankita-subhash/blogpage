@@ -28,6 +28,14 @@ After logging in to dashboard you can CREATE NEW USER ONLY if you  are authicate
 and can add blog, delete or edit blog.
 
 
+______________________________________________________________
+
+**Dashboard Home page** 
+
+
+![dashboard home](https://user-images.githubusercontent.com/58456645/115694560-9bcc5b00-a37e-11eb-93bd-82cc04b5dafb.PNG)
+
+
 
 
 
